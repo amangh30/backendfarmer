@@ -6,7 +6,7 @@ SECRET_KEY = 'django-insecure-@zpbs^6npiudc&0pzmohvg)!_%k&6j$l=)mgi)kxu3t$bixa0(
 
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://backendfarmer.onrender.com', 'backendfarmer.onrender.com']  # Add your domain names or IP addresses here
 
 
 # Application definition
